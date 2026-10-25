@@ -287,15 +287,4 @@ Our solution implements **deterministic physical and semantic verification**:
 
 ---
 
-## 🎥 Interview Video Script
 
-The root directory contains **`INTERVIEW_VIDEO_SCRIPT.docx`**, a complete 8–10 minute spoken script and live-demonstration guide designed specifically for fresher interviews:
-- **Section 1**: Introduction & Personal Pitch `[0:00 - 1:15]`
-- **Section 2**: Architecture & Pipeline Walkthrough `[1:15 - 3:00]`
-- **Section 3**: Live Demo Walkthrough (Both Test Cases) `[3:00 - 5:30]`
-- **Section 4**: Deep-Dive on Reflection & Self-Check Pattern `[5:30 - 7:00]`
-- **Section 5**: Error Handling, Security & Traversal Prevention `[7:00 - 8:30]`
-- **Section 6**: Engineering Tradeoffs in 60 Minutes `[8:30 - 9:30]`
-- **Section 7**: Conclusion & Q&A Readiness `[9:30 - 10:00]`
-
-All areas requiring candidate personalization are highlighted with `[PERSONALIZE: ...]`.
